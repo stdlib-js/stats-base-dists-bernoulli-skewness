@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-05)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3420](https://github.com/stdlib-js/stdlib/issues/3420)
+[#3420](https://github.com/stdlib-js/stdlib/issues/3420), [#5069](https://github.com/stdlib-js/stdlib/issues/5069)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`84a04f3`](https://github.com/stdlib-js/stdlib/commit/84a04f3063159439b28b92c766eaf4bdcb09cf15) - **chore:** address commit comments for `bernulli/skewness` [(#5082)](https://github.com/stdlib-js/stdlib/pull/5082) _(by Saurabh Singh)_
 -   [`ae4d64e`](https://github.com/stdlib-js/stdlib/commit/ae4d64e5c3704709480e9daf7bc560163df24794) - **feat:** add C implementation for `stats/base/dists/bernoulli/skewness` [(#3458)](https://github.com/stdlib-js/stdlib/pull/3458) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
 
@@ -47,12 +48,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Saurabh Singh
 
 </section>
 
