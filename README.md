@@ -71,7 +71,7 @@ where `p` is the success probability.
 To use in Observable,
 
 ```javascript
-skewness = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@umd/browser.js' )
+skewness = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@v0.3.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -83,7 +83,7 @@ var skewness = require( 'path/to/vendor/umd/stats-base-dists-bernoulli-skewness/
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@v0.3.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -147,7 +147,7 @@ v = skewness( -1.0 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-skewness@v0.3.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
